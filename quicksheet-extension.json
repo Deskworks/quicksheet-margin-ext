@@ -1,0 +1,8 @@
+{
+  "name": "margin",
+  "version": "1.0.0",
+  "prefix": "margin",
+  "description": "Break-even analysis and contribution margin calculator",
+  "entry": "dotnet run --project MarginExtension.csproj",
+  "minProtocolVersion": 1
+}
