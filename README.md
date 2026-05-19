@@ -52,7 +52,7 @@ Clone into your QuickSheet extensions directory:
 
 ```bash
 cd ~/.quicksheet/extensions
-git clone https://github.com/cemheren/quicksheet-margin-ext.git
+git clone https://github.com/Deskworks/quicksheet-margin-ext.git
 ```
 
 Requires .NET 9 SDK. Zero NuGet dependencies.
@@ -60,11 +60,11 @@ Requires .NET 9 SDK. Zero NuGet dependencies.
 ## Part of the QuickSheet Accounting Suite
 
 Works alongside other financial extensions:
-- [quicksheet-budget](https://github.com/cemheren/quicksheet-budget) — budget envelope visualizer
-- [quicksheet-qtr](https://github.com/cemheren/quicksheet-qtr) — quarterly tax deadline countdown
-- [quicksheet-fx](https://github.com/cemheren/quicksheet-fx) — live currency conversion
-- [quicksheet-1099-ext](https://github.com/cemheren/quicksheet-1099-ext) — freelancer tax estimator
-- [quicksheet-mileage-ext](https://github.com/cemheren/quicksheet-mileage-ext) — IRS standard mileage
+- [quicksheet-budget](https://github.com/Deskworks/quicksheet-budget) — budget envelope visualizer
+- [quicksheet-qtr](https://github.com/Deskworks/quicksheet-qtr) — quarterly tax deadline countdown
+- [quicksheet-fx](https://github.com/Deskworks/quicksheet-fx) — live currency conversion
+- [quicksheet-1099-ext](https://github.com/Deskworks/quicksheet-1099-ext) — freelancer tax estimator
+- [quicksheet-mileage-ext](https://github.com/Deskworks/quicksheet-mileage-ext) — IRS standard mileage
 
 ## License
 
